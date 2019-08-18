@@ -8,4 +8,4 @@
 ![alt](./02_gradientRectShape/gradientFill.png)
 
 **Dependencies**
-- [ofxFilikaUtils.h]([https://link](https://github.com/FilikaDesign/ofxFilika/blob/master/src/ofxFilikaUtils.h))
+- [ofxFilikaUtils.h](https://github.com/FilikaDesign/ofxFilika/blob/master/src/ofxFilikaUtils.h)
